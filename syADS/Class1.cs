@@ -18,7 +18,8 @@ namespace syADS
         string ADS_CheckIn(string sUserName, string sRequiredPropertie, string sDefaultPath, string sLogPath = "");
         string ADS_GetInfo(string sUserName, string sRequiredPropertie, string sDefaultPath, string sLogPath = "");
         string GetTimeRemainingUntilPasswordExpiration(string sUserName, string sDefaultPath, string sLogPath = ""); //my comments for testing GIT
-
+//********************************************************************************
+//********************************************************************************
     }
 
 
